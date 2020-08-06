@@ -1,7 +1,8 @@
 # Currículo
  Currículo pessoal
---------------------------------------------------------------------------------------------------------------
+
  Programador e apaixonado em tecnologias
+ 
 “Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos.”
 
 
