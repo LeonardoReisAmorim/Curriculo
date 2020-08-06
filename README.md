@@ -6,6 +6,8 @@
 “Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos.”
 
 
+
+
 Objetivo
 - Desejo estagiar na área de desenvolvimento de sistemas, aprimorando as minhas habilidades no desenvolvimento de software assim ganhando experiência na área.
 
