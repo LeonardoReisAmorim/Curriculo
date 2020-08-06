@@ -1,5 +1,4 @@
 # Currículo
- Currículo pessoal
 
  Programador e apaixonado em tecnologias
  
