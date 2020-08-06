@@ -22,6 +22,7 @@ Atividades extracurriculares
 Certificações
 - Desenvolvimento mobile, fundamentos das aplicações moveis – Fundação Bradesco - 2020.
 - Desenvolvimento web, fundamentos do design gráfico – Fundação Bradesco - 2020.
+- Aprimoramento pessoal, Postura e Imagem Profissional – Fundação Bradesco - 2020.
 
 Hard Skills
 * Conhecimento em lógica de programação e algoritmo
