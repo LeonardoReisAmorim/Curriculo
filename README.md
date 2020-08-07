@@ -6,7 +6,7 @@
 
 ---
 
-## Objetivo
+### Objetivo
 + Desejo estagiar na área de desenvolvimento de sistemas, aprimorando as minhas habilidades no desenvolvimento de software assim ganhando experiência na área.
 
 ## Formação acadêmica
