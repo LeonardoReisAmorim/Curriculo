@@ -24,7 +24,6 @@
 + Desenvolvimento web, Fundamentos do design gráfico – Fundação Bradesco - 2020.
 + Aprimoramento pessoal, Postura e Imagem Profissional – Fundação Bradesco - 2020.
 + Aprimoramento pessoal, Desenvolvimento profissional – Fundação Bradesco - 2020.
-![alt text](certificados/Desenvolvimento profissional.jpg "Certificação de Desenvolvimento profissional")
 
 ## Hard Skills
 + Conhecimento em lógica de programação e algoritmo
