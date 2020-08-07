@@ -26,7 +26,7 @@
 + Aprimoramento pessoal, Desenvolvimento profissional – Fundação Bradesco - 2020.
 
 ### Hard Skills
-+ Conhecimento em lógica de programação e algoritmo
++ Conhecimento em lógica de programação e algoritmo;
 + Conhecimento na linguagem C; 
 + Conhecimentos em sistemas desktops;
 + Conhecimento na linguagem Java e POO;
