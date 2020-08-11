@@ -5,6 +5,9 @@
 “Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos.”
 
 ---
+### Contatos
++ Email: leoreisamorim@gmail.com
++ [Linkedin](https://www.linkedin.com/in/leonardo-reis-175243192/)
 
 ### Objetivo
 + Desejo estagiar na área de desenvolvimento de sistemas, aprimorando as minhas habilidades no desenvolvimento de software assim ganhando experiência na área.
