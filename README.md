@@ -24,7 +24,7 @@
 + Desenvolvimento web, Fundamentos do design gráfico – Fundação Bradesco - 2020.
 + Aprimoramento pessoal, Postura e Imagem Profissional – Fundação Bradesco - 2020.
 + Aprimoramento pessoal, Desenvolvimento profissional – Fundação Bradesco - 2020.
-+ Inovando com CSS, Inovando com CSS – Fundação Bradesco - 2020.
++ Inovando com CSS – Fundação Bradesco - 2020.
 
 ### Hard Skills
 + Conhecimento em lógica de programação e algoritmo;
