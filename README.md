@@ -3,7 +3,7 @@
 # Telefone: 71 99695-1200
 # Email: leoreisaomorim@gmail.com
 # [Linkedin](www.linkedin.com/in/leonardo-reis-175243192)
-# [Github]()
+# [Github](https://github.com/LeonardoReisAmorim)
 
 # OBJETIVO: Atuar como estagiário de programação
 
