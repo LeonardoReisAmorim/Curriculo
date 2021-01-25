@@ -2,7 +2,7 @@
 # Cidade/Estado: Salvador/BA
 # Telefone: 71 99695-1200
 # Email: leoreisaomorim@gmail.com
-# [Linkedin](www.linkedin.com/in/leonardo-reis-175243192)
+# [Linkedin](https://www.linkedin.com/in/leonardo-reis-175243192)
 # [Github](https://github.com/LeonardoReisAmorim)
 
 # OBJETIVO: Atuar como estagiário de programação
