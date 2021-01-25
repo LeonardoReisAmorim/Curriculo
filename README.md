@@ -1,48 +1,30 @@
-# Currículo
-***
-# Programador e apaixonado em tecnologias
- 
-“Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos.”
+Leonardo Reis Amorim dos Santos
+Cidade/Estado: Salvador/BA
+Telefone: 71 99695-1200
+Email: leoreisaomorim@gmail.com
+Linkedin: www.linkedin.com/in/leonardo-reis-175243192
 
----
-### Contatos
-+ Email: leoreisamorim@gmail.com
-+ [Linkedin](https://www.linkedin.com/in/leonardo-reis-175243192/)
+OBJETIVO: Atuar como estagiário de programação
+FORMAÇÃO:
+● TÉCNICO – DESENVOLVIMENTO DE SISTEMAS – SENAI CIMATEC - 2021
+● SUPERIOR – ANÁLISE E DESENVOLVIMENTO DE SISTEMAS – IFBA - 2024
 
-### Objetivo
-+ Desejo estagiar na área de desenvolvimento de sistemas, aprimorando as minhas habilidades no desenvolvimento de software assim ganhando experiência na área.
+RESUMO PROFISSIONAL:
+Realizo atividade de iniciação tecnológica júnior há três meses para a empresa SENAI CIMATEC/ATOS. Sou
+responsável pela alimentação de dados em um sistema de inteligência artificial, por meio de frames com
+base em vídeos MP4.
+Curso o último semestre em Técnico em Desenvolvimento de Sistemas no SENAI CIMATEC no período
+vespertino e cursando o primeiro semestre Superior em Análise e Desenvolvimento de Sistemas no
+período noturno. Possuo bons conhecimentos e experiência há um ano em Java, MySQL, HTML, CSS,
+Javascript, C# com framework Asp.net Core MVC, PHP, Python, ferramentas de teste em BlazeMeter e
+JMeter, e C. Tenho boa compreensão do idioma inglês na leitura e audição.
+EXPERIÊNCIA PROFISSIONAL:
+● PROJETO SENAI CIMATEC/ATOS– INICIAÇÃO TECNOLÓGICA JÚNIOR (IT JR) – 10/2020 (INÍCIO)
+ATÉ 01/2021
+Atividades: Alimentar um sistema, com os dados de anotação de imagens, tendo como
+base um vídeo MP4, para treinar um sistema de inteligência artificial. Anotação de dados em frames de
+vídeo.
 
-### Formação acadêmica
-+ Curso técnico em Desenvolvimento de Sistemas - 3° semestre - 2019-2020 - Instituição SENAI CIMATEC.
-+ Graduando Análise e desenvolvimento de Sistemas - 2020-2023 - Instituição IFBA.
-
-### Idioma
-+ Inglês: Nível intermediário
-
-### Atividades extracurriculares
-+ 3° lugar na Amostra de Artes e Ciências do colégio Sesi - Djalma Pessoa, utilizando a tecnologia Arduino
-
-### Certificações
-+ Desenvolvimento mobile, Fundamentos das aplicações moveis – Fundação Bradesco - 2020.
-+ Desenvolvimento web, Fundamentos do design gráfico – Fundação Bradesco - 2020.
-+ Aprimoramento pessoal, Postura e Imagem Profissional – Fundação Bradesco - 2020.
-+ Aprimoramento pessoal, Desenvolvimento profissional – Fundação Bradesco - 2020.
-+ Inovando com CSS – Fundação Bradesco - 2020.
-
-### Hard Skills
-+ Conhecimento em lógica de programação e algoritmo;
-+ Conhecimento na linguagem C; 
-+ Conhecimentos em sistemas desktops;
-+ Conhecimento na linguagem Java e POO;
-+ Conhecimento em sistemas WEB;
-+ Conhecimento em Banco de dados - SQL - MySQL;
-+ Conhecimento em HTML5, JavaScript e CSS3 juntamente com PHP;
-+ Conhecimento em C# juntamente com o Framework: .NET Core.
-
-### Soft Skills
-+ Trabalho em equipe;
-+ Comunicação;
-+ Empatia;
-+ Organização;
-+ Liderança;
-
+CURSOS
+✔Projetos de Sistemas de TI – Fundação Bradesco – 2020
+✔Desenvolvimento Profissional – Fundação Bradesco – 2020
